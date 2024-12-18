@@ -11,7 +11,7 @@ public class Main {
         System.out.println("=== Institution Details ===");
         institution.displayInfo();
 
-        System.out.println("\n=== Student Details ===");
+        System.out.println("\n=== Student Details==");
         student1.displayInfo();
         student2.displayInfo();
 
